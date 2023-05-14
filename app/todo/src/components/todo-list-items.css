@@ -1,0 +1,15 @@
+
+.done
+{
+    text-decoration: line-through;
+}
+
+.item-list-base{
+    font-size: 1.5rem;
+}
+
+.important
+{
+    color: steelblue;
+    font-weight: bold;
+}
